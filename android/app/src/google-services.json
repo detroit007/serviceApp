@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "683944575964",
+    "firebase_url": "https://services-cc869.firebaseio.com",
+    "project_id": "services-cc869",
+    "storage_bucket": "services-cc869.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:683944575964:android:2dd85153ced699a59a4519",
+        "android_client_info": {
+          "package_name": "com.serviceapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "683944575964-2jt7voc6ibi7oijt10qinajrndpie2dd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBxfyk-60nZO1Imi5CDzYbX9gGo5daHGtE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "683944575964-2jt7voc6ibi7oijt10qinajrndpie2dd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
